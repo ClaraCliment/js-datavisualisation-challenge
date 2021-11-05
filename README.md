@@ -8,6 +8,8 @@
 
 - Contexte: `formation BeCode` 
 
+- Voici le résultat: [découvrez le projet](https://claracliment.github.io/js-datavisualisation-challenge/)
+
 
 #### Création et gestion de graphiques:
 * Utilisation de Chart.js
