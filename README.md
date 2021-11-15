@@ -1,4 +1,4 @@
-#  Javascript Challenge : "Data Visualisation"
+#  Javascript Challenge : "Data Visualisation" 📈
 
 - Mode: `solo`  
 
